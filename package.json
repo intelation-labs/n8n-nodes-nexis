@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-nexis",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Find and remove personal data (PII) from text in n8n – redact, mask or encrypt emails, names, NHS and SSN numbers. GDPR, UK GDPR, HIPAA. Powered by Intelation Nexis.",
 	"license": "MIT",
 	"homepage": "https://www.intelation.com/integrations/n8n",
